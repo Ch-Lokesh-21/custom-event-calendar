@@ -10,6 +10,10 @@ Custom Event Calendar
 Live Demo
     Check out the live version of the project: Live Demo
 
+
+![web_page](https://github.com/Ch-Lokesh-21/custom-event-calendar/blob/9239344170863dc3dc23e41f2edd183299d89f6a/home_page.png)
+
+
 Features
 Core Features:
 
