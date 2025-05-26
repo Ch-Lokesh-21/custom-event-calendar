@@ -1,10 +1,6 @@
 Custom Event Calendar
-
-
     Description
-
     Custom Event Calendar is an interactive, dynamic calendar application built using React, Radix UI, and Tailwind CSS. It allows users to efficiently manage their schedules by adding, editing,     deleting, and viewing events. The application supports recurring events, drag-and-drop rescheduling, and event persistence, ensuring a seamless user experience.
-
     This project was submitted as part of the `Frontend Intern - Assignment - Flam`
 
 Check out the live version of the project: [live demo](https://ch-lokesh-21.github.io/custom-event-calendar/)
