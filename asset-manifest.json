@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/custom-event-calendar/static/css/main.2f4ab9e8.css",
+    "main.js": "/custom-event-calendar/static/js/main.a1c783e0.js",
+    "index.html": "/custom-event-calendar/index.html",
+    "main.2f4ab9e8.css.map": "/custom-event-calendar/static/css/main.2f4ab9e8.css.map",
+    "main.a1c783e0.js.map": "/custom-event-calendar/static/js/main.a1c783e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f4ab9e8.css",
+    "static/js/main.a1c783e0.js"
+  ]
+}
