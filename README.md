@@ -8,7 +8,7 @@ Custom Event Calendar
     This project was submitted as part of the `Frontend Intern - Assignment - Flam`
 
 Live Demo
-    Check out the live version of the project: Live Demo
+    Check out the live version of the project: [live demo](https://ch-lokesh-21.github.io/custom-event-calendar/)
 
 
 ![web_page](https://github.com/Ch-Lokesh-21/custom-event-calendar/blob/6c89f534bb1059d68b7d8fa9abe48bed0465878d/web_page.png)
