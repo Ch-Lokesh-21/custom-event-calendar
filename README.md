@@ -56,16 +56,23 @@ Installation
     
     Prerequisites:
         Node.js (v14 or higher)
-
         npm (v6 or higher) or yarn
+
+        
     Steps:
     Clone the repository:
         git clone https://github.com/your-username/custom-event-calendar.git
         cd custom-event-calendar
+
+        
     Install dependencies:
         npm install
+
+        
     Start the development server:
         npm start
+
+        
     Open the application in your browser:
         http://localhost:3000
 
