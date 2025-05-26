@@ -48,7 +48,7 @@ Core Features:
 
     Event Filtering and Searching:
 
-    Dynamic search and category-based filtering.
+        Dynamic search and category-based filtering.
 
 
 Installation
