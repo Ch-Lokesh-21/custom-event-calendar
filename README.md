@@ -1,111 +1,79 @@
-Custom Event Calendar
-    
-    Custom Event Calendar is an interactive, dynamic calendar application built using React, Radix UI, and Tailwind CSS. It allows users to efficiently manage their schedules by adding, editing,     deleting, and viewing events. The application supports recurring events, drag-and-drop rescheduling, and event persistence, ensuring a seamless user experience.
-    This project was submitted as part of the `Frontend Intern - Assignment - Flam`
+# 📅 Custom Event Calendar
 
-Check out the live version of the project: [live demo](https://ch-lokesh-21.github.io/custom-event-calendar/)
+An **interactive, dynamic calendar application** built with **React**, **Radix UI**, and **Tailwind CSS**. Users can **add**, **edit**, **delete**, and **reschedule** events — including recurring ones — with intuitive drag-and-drop and event persistence features.
+---
 
+## 🌐 Live Demo
+
+🔗 **Try it now:** [Custom Event Calendar – Live](https://ch-lokesh-21.github.io/custom-event-calendar/)
 
 ![web_page](https://github.com/Ch-Lokesh-21/custom-event-calendar/blob/6c89f534bb1059d68b7d8fa9abe48bed0465878d/web_page.png)
 
+---
 
-Features
-Core Features:
+## ✨ Features
 
-    Monthly View Calendar:
+<details>
+<summary><strong>📆 Monthly View Calendar</strong></summary>
 
-        Traditional monthly calendar with the ability to navigate between months.
+- Navigate between months
+- Highlights the **current day**
+- Simple and intuitive UI
+</details>
 
-        Highlights the current day for better visibility.
+<details>
+<summary><strong>🗓️ Event Management</strong></summary>
 
-    Event Management:
+- Add, edit, and delete events
+- Input fields: title, date, time, description, recurrence, category
+</details>
 
-        Add, edit, and delete events.
+<details>
+<summary><strong>🔁 Recurring Events</strong></summary>
 
-        Supports fields like title, date, time, description, recurrence options, and event category.
+- Supports daily, weekly, monthly, and custom recurrence
+- Displays recurring events accurately
+</details>
 
-    Recurring Events:
+<details>
+<summary><strong>📦 Event Persistence</strong></summary>
 
-        Daily, weekly, monthly, and custom recurrence options.
+- Events are stored in **localStorage**
+- Data remains intact even after refresh
+</details>
 
-        Correct visualization of recurring events across the calendar.
+<details>
+<summary><strong>📱 Responsive & Mobile-Friendly</strong></summary>
 
-    Drag-and-Drop Rescheduling:
+- Optimized for all screen sizes
+- Switches layout for smaller devices
+</details>
 
-        Drag events to reschedule them.
+<details>
+<summary><strong>🔍 Filtering & Search</strong></summary>
 
-        Handles conflicts during rescheduling with appropriate notifications.
+- Filter events by **category**
+- Search events dynamically
+</details>
 
-    Event Persistence:
+<details>
+<summary><strong>🔧 Drag-and-Drop Rescheduling</strong></summary>
 
-        Data persistence using local storage ensures events are saved even after a page refresh.
+- Easily drag events to reschedule
+- Conflict detection & notifications included
+</details>
 
-    Responsive Design:
+---
 
-        Works seamlessly across desktop and mobile devices.
+## ⚙️ Installation
+```bash
+# Clone the repository
+git clone https://github.com/Ch-Lokesh-21/custom-event-calendar.git
+cd custom-event-calendar
 
-        Adapts layout for smaller screens with a daily or weekly view.
+# Install dependencies
+npm install
 
-    Event Filtering and Searching:
-
-        Dynamic search and category-based filtering.
-
-
-Installation
-    
-    Prerequisites:
-        Node.js (v14 or higher)
-        npm (v6 or higher) or yarn
-
-        
-    Steps:
-    Clone the repository:
-        git clone https://github.com/Ch-Lokesh-21/custom-event-calendar.git
-        cd custom-event-calendar
-
-        
-    Install dependencies:
-        npm install
-
-        
-    Start the development server:
-        npm start
-
-        
-    Open the application in your browser:
-        http://localhost:3000
-
-
-Usage
-    
-    Adding Events:
-        Click on a specific day in the calendar to open the event creation form.
-
-        Fill in the event details, including title, date/time, description, recurrence, and category.
-
-    Editing Events:
-        Click on an existing event to open the edit form.
-
-        Update the desired fields and save changes.
-
-    Deleting Events:
-        Click on an event and use the "Delete" button to remove it.
-
-    Drag-and-Drop Rescheduling:
-        Drag events from one day to another directly on the calendar.
-
-    Built With
-        React: Component-based framework for building the user interface.
-
-        Radix UI: For accessible and customizable UI components.
-
-        Tailwind CSS: For utility-first styling.
-
-        date-fns: To handle date and time operations.
-
-        React DnD: To enable drag-and-drop functionality.
-
-
-
-
-
+# Start development server
+npm start
+```
